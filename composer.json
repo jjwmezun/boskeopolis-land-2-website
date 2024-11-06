@@ -2,7 +2,7 @@
     "require": {
         "waughj/copyright-year": "*",
         "twig/twig": "*",
-        "symfony/http-foundation": "^4.3",
+        "symfony/http-foundation": "^5.4",
         "waughj/file-loader": "*",
         "waughj/html-picture": "*",
         "waughj/html-image": "*",
